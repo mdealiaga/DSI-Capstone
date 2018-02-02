@@ -7,4 +7,5 @@ This project aims to predict price changes through tweet sentiment analysis, thr
 
 The best way to the report on this project is through https://nbviewer.jupyter.org/github/mdealiaga/DSI-Capstone/blob/master/Capstone-Part-4.ipynb
 It will allow viewing Pandas Tables properly, and enable use of the Table of Contents.
+
 The project can also be viewed directly in Github at https://github.com/mdealiaga/DSI-Capstone/blob/master/Capstone-Part-4.ipynb.
