@@ -5,7 +5,4 @@ Given the large volatility, it is possible that part of the reason why price cha
 This project aims to predict price changes through tweet sentiment analysis, through a multivariate time series model.
 
 
-The best way to the report on this project is through https://nbviewer.jupyter.org/github/mdealiaga/DSI-Capstone/blob/master/Capstone-Part-4.ipynb.
-NBViewer will allow viewing Pandas Tables properly, and enable use of the Table of Contents.
-
-The project can also be viewed directly in Github at https://github.com/mdealiaga/DSI-Capstone/blob/master/Capstone-Part-4.ipynb.
+The project notebook can be viewed at https://github.com/mdealiaga/DSI-Capstone/blob/master/Capstone-Part-4.ipynb.
